@@ -1,5 +1,8 @@
 "use strict";
 
+// TODO: Swap between elements in squares grid.
+// TODO: Avoid elements over positioned in the numbers container.
+
 let currentNumber;
 
 const numbersContainer = document.querySelector(".numbers-container");
